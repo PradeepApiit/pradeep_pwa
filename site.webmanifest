@@ -1,7 +1,7 @@
 {
     "name": " Pradeep Pallegama",
     "short_name": "Pradeep",
-    "start_url":"index.html",
+    "start_url":"./index.html",
     "icons": [
       
         {
